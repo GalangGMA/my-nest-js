@@ -44,10 +44,6 @@ Template environment variable yang perlu diisi developer.
 
 Ringkasan setup dan cara menjalankan project.
 
-### `agent.md`
-
-Dokumen standar engineering yang dijadikan acuan implementasi project ini.
-
 ## Struktur `src/`
 
 ## `src/main.ts`
